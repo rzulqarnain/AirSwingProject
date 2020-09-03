@@ -1,0 +1,7 @@
+Tablet	iPad	ALTCentre	Apple
+Tablet	Kindle	Fred	Amazon
+Tablet	Playbook	ALTCentre	Blackberry
+Mobile	Nokia	ALTCentre	2012
+Mobile	iPhone	Fred	2010
+Mobile	Blackberry	Ann	2011
+Netbook	Eee	ALTCentre	11

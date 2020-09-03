@@ -1,0 +1,27 @@
+Adult,Ali,111111
+Adult,Mariam,222222
+Child,Efram,true
+Child,Sarah,false
+Boeing,001,747
+Boeing,002,777
+Airbus,003,A320
+Airbus,004,A320
+Destination,DOH,Doha,204,163
+Destination,AUH,Abu Dhabi,382,225
+Destination,DXB,Dubai,462,156
+Route,DOH,DXB,1500
+Route,DXB,DOH,1500
+Route,DOH,AUH,1000
+Route,AUH,DOH,1000
+Flight,111,001,DOH-DXB,9:00AM
+Flight,112,001,DXB-DOH,11:00AM
+Flight,211,003,DOH-AUH,9:00AM
+Flight,212,003,AUH-DOH,11:00AM
+Booking,Ali,111
+Booking,Mariam,111
+Booking,Efram,111
+Booking,Sarah,111
+Booking,Ali,112
+Booking,Mariam,112
+Booking,Efram,112
+Booking,Sarah,112
